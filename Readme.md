@@ -1,16 +1,16 @@
-MLKitOCR
-Android Text detection app using Google ML Kit
+# MLKitOCR
+Android Text detection app using [Google ML Kit](https://developers.google.com/ml-kit/)
 
-Key Features
+## Key Features
 Capture image using Camera2 api
 Convert image to Bitmap 
 Detect text from the captured image 
 
-Requirements
+## Requirements
 Android version 5.0 or higher (LOLLIPOP)
 Google PlayStore is available on the device
 
-Set-up
+## Set-up
 Change package name to your own naming
 change package name in AndroidManifext.xml
 change package name in build.gradle for App level
