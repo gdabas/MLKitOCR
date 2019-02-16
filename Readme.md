@@ -12,9 +12,9 @@ Android Text detection app using [Google ML Kit](https://developers.google.com/m
 
 ## Set-up
 * Change package name to your own naming
-* change package name in AndroidManifext.xml
-* change package name in build.gradle for App level
-* change directory structure and package name of java source files
+* Change package name in AndroidManifext.xml
+* Change package name in build.gradle for App level
+* Change directory structure and package name of java source files
 * Enroll the package to firebase console
 * Log in Firebase Console
 * Add a project for this app
